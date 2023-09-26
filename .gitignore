@@ -1,0 +1,17 @@
+# Environment variables that should not be shared
+.env
+
+# All types of virtualenvs
+.direnv/
+.venv/
+.env/
+
+# Always
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
